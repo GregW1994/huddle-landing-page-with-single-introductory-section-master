@@ -26,4 +26,4 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://gregw1994.github.io/huddle-landing-page-with-single-introductory-section-master/)
